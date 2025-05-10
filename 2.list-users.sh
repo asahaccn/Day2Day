@@ -1,5 +1,10 @@
 #!/bin/bash
 
+## About : List users who have read access to gitHub repo
+## Input : Github repo owner, Github repo
+## Owner : asahaccn
+## Support : asaha@protonmail.com
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
