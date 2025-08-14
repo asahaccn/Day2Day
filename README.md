@@ -2,7 +2,7 @@
 ##Repository to store devops scripts used in day to day operations##
 
 Script 1:
-Lust AWS resources through aws cli  using jq parser 
+List AWS resources through aws cli and parse using jq parser 
 
 To install jq on linux sudo apt-get install jq
 To install jq on mac: Use homebrew brew install jq
