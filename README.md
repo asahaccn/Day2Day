@@ -11,3 +11,7 @@ To connect to aws cli: aws configure AWS Access Key ID [None]: AWS Secret Access
 
 Script 2:
 List users who have read access to gitHub repo through curl api call
+
+
+Script 3:
+Use of file operations r/w to change server configuration dynamically
